@@ -1,0 +1,2 @@
+config()                  get configs
+APP_DIR                app directory path from root
